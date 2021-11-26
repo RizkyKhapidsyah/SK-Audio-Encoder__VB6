@@ -1,2 +1,5 @@
 # SK-Audio-Encoder__VB6
-Fundamental Pemrograman Visual Basic 6.0 - SK; Audio Encoder
+Fundamental Pemrograman Visual Basic 6.0 - SK; Audio Encoder by 4D Software<br><br>
+<img src="https://github.com/RizkyKhapidsyah/SK-Audio-Encoder__VB6/blob/main/result/001.PNG"><br><br>
+Lihat Source Code : <br>
+- <a href="https://github.com/RizkyKhapidsyah/SK-Audio-Encoder__VB6">Program</a>
